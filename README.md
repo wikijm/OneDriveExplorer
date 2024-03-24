@@ -56,7 +56,7 @@ The GUI consists of two panes: the folder structure on the left and details on t
 
 The GUI is capable of parsing the live system and dat files, along with loading JSON or CSV from a previously parsed dat file. OneDriveExplorer GUI also supports loading multiple files. When loading a dat file, an additional dialog will appear to allow you to supply a registry file. This can be disabled by holding down `SHIFT` or disabling it in the preferences menu.
 
-**&#42;Experamental:** OneDrive ODL logs can be enabled in the Preferences menu.
+**&#42;Experimental:** OneDrive ODL logs can be enabled in the Preferences menu.
 
 ![file_menu](./Images/file_menu.png)  ![hive](./Images/hive.png)
 
